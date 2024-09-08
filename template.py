@@ -76,9 +76,6 @@ for item in items:
         plt.xlabel("Longitude", fontsize=14)
         plt.ylabel("Latitude", fontsize=14)
 
-        # Add a title to the plot
-        plt.title("orbitalVision", fontsize=20, fontweight='bold')
-
         # Add a grid
         plt.grid(False)
 
